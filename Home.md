@@ -1,1 +1,1 @@
-Welcome to the commonwiki wiki!
+[Выгрузка статусов из 1С](https://github.com/studiofact/commonwiki.wiki.git)
