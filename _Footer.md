@@ -1,1 +1,1 @@
-оО
+![](http://studiofact.ru/bitrix/templates/fact/img/black.svg)
