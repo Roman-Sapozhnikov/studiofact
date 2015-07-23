@@ -76,3 +76,6 @@
 
 ##### Дата/время
 * [Шпаргалка по работе с датой/временем (dev.1c-bitrix.ru)](http://dev.1c-bitrix.ru/community/webdev/user/11948/blog/7345/)
+
+#### Разное полезное
+* [Если удалили файл crontab](https://github.com/studiofact/commonwiki/wiki/%D0%95%D1%81%D0%BB%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B8%D0%BB%D0%B8-%D1%84%D0%B0%D0%B9%D0%BB-crontab)
