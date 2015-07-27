@@ -5,3 +5,7 @@
     ?>
 
 После чего используется во всех нужных местах.
+
+UPD: будет полезным использовать следующую универсальную запись:
+
+    $bxajaxid = CAjax::GetComponentID($component->__name, $component->__template->__name);
