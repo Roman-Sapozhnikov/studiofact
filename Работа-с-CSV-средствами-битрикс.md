@@ -3,7 +3,7 @@
     $csvFile->LoadFile($_FILES['csv']['tmp_name']);
     $csvFile->SetDelimiter(',');
     while ($arRes = $csvFile->Fetch()) {
-       ec($arRes);
+       echo($arRes);
     }
 
 Собственно: 
