@@ -1,6 +1,6 @@
     $GLOBALS['RENT_PARAMS'] = array('IBLOCK_ID' => 3);
     AddEventHandler('main', 'OnEndBufferContent', 'RentOrder');
-    function RentOrder($buffer)
+    function RentOrder(&$buffer)
     {
     global $APPLICATION;
         
