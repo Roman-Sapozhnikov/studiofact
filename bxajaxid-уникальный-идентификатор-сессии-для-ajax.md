@@ -9,3 +9,7 @@
 UPD: будет полезным использовать следующую универсальную запись:
 
     $bxajaxid = CAjax::GetComponentID($component->__name, $component->__template->__name);
+
+После переезда сайта на php7 запись выше будет выглядеть:
+
+    $bxajaxid = CAjax::GetComponentID($component->__name, $component->__template->__name, $component->arParams['AJAX_OPTION_ADDITIONAL']);
