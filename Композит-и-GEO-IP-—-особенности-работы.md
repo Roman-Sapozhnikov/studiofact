@@ -33,3 +33,5 @@
 
 Пример файла с запросом в инфоблок справочника городов **[здесь](https://github.com/studiofact/commonwiki/blob/master/composite_first_start_cookie_fix.php)**
 
+* Однако, данный метод не будет работать с отдачей файлов композитного кеша, через nginx.
+
